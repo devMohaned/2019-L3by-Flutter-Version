@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777133733004",
+    "firebase_url": "https://testing-flutter-fde44.firebaseio.com",
+    "project_id": "testing-flutter-fde44",
+    "storage_bucket": "testing-flutter-fde44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777133733004:android:86855e45b4e38019",
+        "android_client_info": {
+          "package_name": "com.trade.pc.fluttergamesexchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777133733004-cfkcns4uvvqaqpspouga40b8ffasaaf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKKlO9relHNoLUv3JIkZ56VFQXJhuPaTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777133733004-cfkcns4uvvqaqpspouga40b8ffasaaf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
